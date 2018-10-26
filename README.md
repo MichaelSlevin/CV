@@ -63,17 +63,28 @@ The Green Bike Project is a cooperative bicycle workshop based on the university
 
 ## Voluntary work
 
+
 **Youth worker** (October 2016 to August 2017)
+
 *Cycloan Education and Restorative Approaches, Stockport*
+
 **Youth work, restorative justice**
+
 I provided support teaching bicycle maintenance, business skills and customer interaction to young offenders and young people referred by schools and pupil referral units to Cycloan. The process helped to build confidence in the young people and gave them experience to progress on to college or jobs after the academic year. 
+
 **Conflict resolution**
+
 I acted as mediator between two young people after an altercation. I held held meetings with the social worker of one of the boys to ensure that both sides felt heard and that they reflected on how their behaviour had affected others and then reintegrated them both back into the group.
 
+
 **Operational Researcher** (December 2015 to January 2016)
+
 *Tim Parry and Jonathan Ball Foundation for Peace, Manchester*
+
 **Grant applications, management information tool**
+
 The Survivors Assistance Network at the Foundation for Peace gave support and ran workshops for survivors of political violence and signposted them to external services where appropriate. I held interviews with the team to map out the process of interacting with the Survivors and created a tool track interactions between the team and the survivors. The tool then provided the management information necessary to secure grant funding from the Ministry of Justice, securing funds to keep the program running for the next financial year. 
+
 
 
 ## Education
