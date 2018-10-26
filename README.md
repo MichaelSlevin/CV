@@ -30,6 +30,10 @@ Project title  | Description  									| Development timeframe | Technologies | 
 
 ## Experience
 
+**Software Developer** (October 2018 to present)
+*Department for Education*
+Career change to train as a software developer.
+
 **Operational Researcher** (April 2017 to October 2018)    
 *Education, Skills and Funding Agency, Department for Education*  
 Design of KPIs related to the agency effectiveness, creation of tools using SQL, VBA and excel to support operational colleagues, automation of reporting processes.
@@ -44,11 +48,11 @@ Gained funding to take part in the Pioneers into Practice program through Climat
 - Designed the heat genius customer relationship management system, interviewing stakeholders to ensure that their needs were met. Provided research of competitors and used skills in data analysis to review heat day 
 - Supported academics in the University of Econmics and Technology with literature reviews and english tuition/proof reading of papers on how technology and innovative schemes could be implemented to alleviate the Budapest's communities reliance on cars.
 
-**Tutor** (November 2013 to June 2014)    
+**Mathematics Tutor** (September 2013 to June 2014)    
 *Tutor trust*  
 Provided interventions to GCSE students on the C/D in schools in Salford.
 
-**Director** (November 2014 to April 2017)    
+**Director** (September 2012 to September 2013)    
 *Green Bike Project*  
 The Green Bike Project is a cooperative bicycle workshop based on the university of birmingham campus, which provides free access to otherwise unaffordable bike tools, cheap recycled bikes for the local community and a space where skills can be shared.
 - Design and implementation of website
